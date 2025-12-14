@@ -15,7 +15,7 @@ assessmentButton.addEventListener(
 
     //診断結果表示エリアの作成
     resultDivision.innerText = '';
-    
+
     //headerDivisionの作成
     const headerDivision = document.createElement('div');
     headerDivision.setAttribute('class', 'card-header text-bg-primary');
